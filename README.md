@@ -42,3 +42,5 @@ Note: Dataset is used only for educational and analytical purposes.*
 
 This analysis helps identify business opportunities, improve inventory management, and guide marketing strategies based on data-driven insights.
 
+Example : https://github.com/Ramya-r-reddy/Sales-Analysis-of-Amazon-Product/blob/main/Snapshot%20of%20the%20Dashboard.png
+
